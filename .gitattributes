@@ -1,1 +1,2 @@
 simplepypkg/_version.py export-subst
+simplepypkgtest/_version.py export-subst

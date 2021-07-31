@@ -1,2 +1,2 @@
 include versioneer.py
-include simplepypkg/_version.py
+include simplepypkgtest/_version.py
